@@ -1,0 +1,12 @@
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplicationLibrary.deps.json
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.csproj.AssemblyReference.cache
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfoInputs.cache
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.AssemblyInfo.cs
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.dll
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\refint\JobApplicationLibrary.dll
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplicationLibrary.pdb
+C:\Users\ulvi\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\ref\JobApplicationLibrary.dll
